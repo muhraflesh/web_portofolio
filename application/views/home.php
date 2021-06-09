@@ -6,6 +6,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
+  <link rel="icon" href="<?php echo base_url('assets/img/fm.png'); ?>">
 
 
   <link href="<?php echo base_url('assets/img/favicon.png'); ?>" rel="stylesheet" type="text/css" media="all">
